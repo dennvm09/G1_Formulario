@@ -87,7 +87,8 @@ namespace Formulario_G1
             {
                 texto = "Error";
             }
-
+            
+            leer.Close();
             return texto;
         }
 
