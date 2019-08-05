@@ -1,0 +1,30 @@
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.exe.config
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.exe
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.pdb
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csprojAssemblyReference.cache
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.Form1.resources
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.Properties.Resources.resources
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csproj.GenerateResource.cache
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csproj.CoreCompileInputs.cache
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.exe
+C:\Users\1006168982\Documents\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.pdb
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.exe.config
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.exe
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.pdb
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.Form1.resources
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.Properties.Resources.resources
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.exe
+C:\Users\usuario\Documents\Universidad\Proyecto Integrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.pdb
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.exe.config
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.exe
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\bin\Debug\Formulario_G1.pdb
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csprojAssemblyReference.cache
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.Form1.resources
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.Properties.Resources.resources
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csproj.GenerateResource.cache
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.csproj.CoreCompileInputs.cache
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.exe
+C:\Users\junior\Documents\ProyectoIntegrador\Formulario_G1\Formulario_G1\obj\Debug\Formulario_G1.pdb

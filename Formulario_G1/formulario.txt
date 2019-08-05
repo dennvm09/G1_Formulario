@@ -1,0 +1,16 @@
+﻿Edificio: A
+Baño de: Hombres
+Cantidad de inodoros: 3
+Litros expulsados: 3
+Cantidad de lavamanos: 6
+Tiempo promedio de expulsión de agua: 67
+
+
+Edificio: G
+Baño de: Hombres
+Cantidad de inodoros: 6
+Litros expulsados: 4
+Cantidad de lavamanos: 2
+Tiempo promedio de expulsión de agua: 60
+
+
